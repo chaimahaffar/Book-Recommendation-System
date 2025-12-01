@@ -48,14 +48,6 @@ This project involves developing a system that recommends books to users based o
 
 ---
 
-<h2>Environments Used</h2>
-<ul>
-  <li><b>Jupyter Notebook</b> – Interactive development and testing</li>
-  <li><b>Jupyter</b> – Model training with large datasets</li>
-</ul>
-
----
-
 <h2>Project Workflow</h2>
 
 <h3>1. Data Collection and Preprocessing</h3>
